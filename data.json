@@ -1,0 +1,105 @@
+{
+    "sidebar": [
+        {
+            "heading": null,
+            "items": [
+                {
+                    "icon": null,
+                    "name": "Home"
+                },
+                {
+                    "icon": null,
+                    "name": "Explore"
+                },
+                {
+                    "icon": null,
+                    "name": "Shorts"
+                },
+                {
+                    "icon": null,
+                    "name": "Subscriptions"
+                }
+            ]
+        },
+        {
+            "heading": null,
+            "items": [
+                {
+                    "icon": null,
+                    "name": "Library"
+                },
+                {
+                    "icon": null,
+                    "name": "History"
+                },
+                {
+                    "icon": null,
+                    "name": "Your videos"
+                },
+                {
+                    "icon": null,
+                    "name": "watch Later"
+                },
+                {
+                    "icon": null,
+                    "name": "Liked videos"
+                }
+            ]
+        },
+        {
+            "heading": "Subscriptions",
+            "items": [
+                {
+                    "icon": null,
+                    "name": "T-Series"
+                },
+                {
+                    "icon": null,
+                    "name": "Fireship"
+                },
+                {
+                    "icon": null,
+                    "name": "Browse channels"
+                }
+            ]
+        },
+        {
+            "heading": "MORE FROM YOUTUBE",
+            "items": [
+                {
+                    "icon": null,
+                    "name": "Gaming"
+                },
+                {
+                    "icon": null,
+                    "name": "Live"
+                },
+                {
+                    "icon": null,
+                    "name": "Sports"
+                }
+            ]
+        },
+        {
+            "heading": null,
+            "items": [
+                {
+                    "icon": null,
+                    "name": "Settings"
+                },
+                {
+                    "icon": null,
+                    "name": "Report history"
+                },
+                {
+                    "icon": null,
+                    "name": "Help"
+                },
+                {
+                    "icon": null,
+                    "name": "Send feedback"
+                }
+            ]
+        }
+    ]
+}
