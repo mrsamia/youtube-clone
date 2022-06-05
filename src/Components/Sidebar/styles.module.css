@@ -1,0 +1,29 @@
+.sidebarWrapper{
+    max-width: fit-content;
+}
+
+.itemsWrapper {
+    margin: 50px;
+    margin-left: 0px;
+}
+
+.heading{
+    font-size: 18px;
+    line-height: 64px;
+    color: #746f6f;
+    letter-spacing: 0.5px;
+    padding-left: 25px;
+    font-family: "Roboto", "Noto", sans-serif;
+   
+}
+.items{
+    font-size: 16px;
+    cursor: pointer;
+    line-height: 40px;
+    padding-left: 25px;
+    font-family: "Roboto", "Noto", sans-serif;
+}
+.items:hover{
+    background-color: #F2F2F2;
+    
+}
