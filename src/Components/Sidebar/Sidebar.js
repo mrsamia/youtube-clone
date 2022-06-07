@@ -6,14 +6,16 @@ import styles from './styles.module.css';
 function Sidebar(props) {
 
     return (
-        <div className={styles.sidebarWrapper}>
-            {data.sidebar.map((e) => {
-                return (
-                    <Items heading={e.heading}
-                        items={e.items}
-                    />
-                );
-            })}
+        <div className={styles.borderBottom}>
+            <div className={styles.sidebarWrapper}>
+                {data.sidebar.map((e) => {
+                    return (
+                        <Items heading={e.heading}
+                            items={e.items}
+                        />
+                    );
+                })}
+            </div>
         </div>
     )
 

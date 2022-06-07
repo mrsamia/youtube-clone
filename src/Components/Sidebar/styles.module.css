@@ -1,5 +1,8 @@
-.sidebarWrapper{
+.sidebarWrapper {
     max-width: fit-content;
+    background-color: white;
+    height: calc(100vh - 86px);
+    overflow-y: scroll;
 }
 
 .itemsWrapper {
@@ -7,23 +10,29 @@
     margin-left: 0px;
 }
 
-.heading{
+.heading {
     font-size: 18px;
     line-height: 64px;
     color: #746f6f;
     letter-spacing: 0.5px;
     padding-left: 25px;
     font-family: "Roboto", "Noto", sans-serif;
-   
+
 }
-.items{
+
+.items {
     font-size: 16px;
     cursor: pointer;
     line-height: 40px;
     padding-left: 25px;
     font-family: "Roboto", "Noto", sans-serif;
 }
-.items:hover{
+
+.items:hover {
     background-color: #F2F2F2;
-    
+
+}
+.borderBottom {
+    border-top: 1px solid #cacaca;
+    background-color: #f9f9f9;
 }
