@@ -2,7 +2,7 @@
     max-width: fit-content;
     background-color: white;
     height: calc(100vh - 86px);
-    overflow-y: scroll;
+    overflow-y: scroll;     
 }
 
 .itemsWrapper {
@@ -34,5 +34,4 @@
 }
 .borderBottom {
     border-top: 1px solid #cacaca;
-    background-color: #f9f9f9;
 }
